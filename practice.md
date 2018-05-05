@@ -36,7 +36,7 @@
 
 // 超链接的写法，这里用了一个无序列表
 
-![](C:\Users\xiaon\Pictures\Saved Pictures\蟹老板.jpg)
+![](/Users/xiaon/Pictures/Saved Pictures/蟹老板.jpg)
 
 //插入图片和超链接显示，但前面一定要加一个感叹号
 ```
